@@ -1,0 +1,10 @@
+.Screen {
+  margin: auto;
+  min-width: 18%;
+  height: 400px;
+  max-width: 18%;
+  max-height: 32%;
+  background-color: #FEFEFE;
+  border-radius: 3%;
+  padding: 10px 10px;
+}
